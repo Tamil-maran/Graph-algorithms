@@ -11,7 +11,8 @@ holds for every k in ![](https://wikimedia.org/api/rest_v1/media/math/render/svg
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Gallai_theorem)
 
-* Usage
+* Usage:
+
 `
   python3 erdos_gallai.py -d 6 6 6 6 2 2 3 3
 `
